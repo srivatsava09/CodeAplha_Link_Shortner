@@ -1,0 +1,26 @@
+.bg-container{
+    background-image: url("https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg");
+    background-size:cover;
+    height: 100vh;
+    
+    
+}
+.card-container{
+    background-color:whitesmoke;
+    text-align: center;
+    margin-right: 70%;
+    padding-top:15px;
+    padding-bottom: 15px;
+    margin-left: 3%;
+    border-radius:15px ;
+    
+}
+.btn{
+    width:80px;
+    height:32px;
+    padding:0px;
+    font-size: 15px;
+    background-color: transparent;
+    color:black
+}
+
